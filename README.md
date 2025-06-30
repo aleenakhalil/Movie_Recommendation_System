@@ -75,4 +75,8 @@ pip install -r requirements.txt
 3. Launch the app:
 ```bash
 streamlit run app.py
+```
 
+---
+## Live Demo
+https://movierecommendationsystem-xzpea6hukvnjxx4b5lsxck.streamlit.app/
